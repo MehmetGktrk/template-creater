@@ -27,7 +27,8 @@ npm install
 ```
 
 > There are no dependencies in this project, but it's still recommended to run this command.
-> Then, delete the deleteThis.js file inside the template folder.
+
+Then, delete the deleteThis.js file inside the template folder.
 
 ---
 
