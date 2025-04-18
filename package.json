@@ -1,0 +1,14 @@
+{
+  "name": "template-creater",
+  "version": "1.0.0",
+  "description": "A simple template generator that creates a new project folder based on the contents of a predefined template directory.",
+  "main": "templater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node templater.js"
+  },
+  "keywords": [],
+  "author": "Mehmet_Gokturk",
+  "license": "ISC",
+  "type": "commonjs"
+}
